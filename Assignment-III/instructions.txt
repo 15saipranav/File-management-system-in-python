@@ -1,0 +1,28 @@
+:):):):):):)File management system :):):):):):)
+
+Files included:
+
+1. server.py
+2. logic.py
+3. client.py
+5. commands.txt
+5. userlog.txt
+6. loginlog.txt
+The files need to store in the same directory:
+server:
+1. sever.py
+2. logic.py
+3. userlog.txt
+client:
+1. client.py
+2. commands.txt
+files for client can be executed independently from other directory
+Executing the code:
+first time executing the code register .
+1: execute server.py then open new terminal and execute
+2: execute client.py
+Things to be noted :
+folder name and file names should not contain any spaces or else
+the arguments will be invalid.
+The command should be given in the following format:
+command <argument 1> <argument 2>
